@@ -88,9 +88,7 @@ bot.onText(/\/start/, (msg) => {
     const chatId = msg.chat.id;
     bot.sendMessage(chatId, 'Please select an option:', createCustomKeyboard());
 });
-bot.on('polling', () => {
-  console.log('GTTeleController by DeopZa#0148\nedit aja lagi ngentot gw mau tidur!');
-});
+console.log('GTTeleController by DeopZa#0148\nedit aja lagi ngentot gw mau tidur!');
 bot.on('message', (msg) => {
     const chatId = msg.chat.id;
     const text = msg.text;
