@@ -13,6 +13,7 @@
   
 ## Installation
 
-1. run install.bat
-2. run startbot.bat
-3. enjoy.
+1. edit config/config.json
+2. run install.bat
+3. run startbot.bat
+4. enjoy.
