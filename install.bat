@@ -1,0 +1,1 @@
+npm i node-telegram-bot-api fs path child_process

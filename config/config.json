@@ -1,0 +1,9 @@
+{
+    "token": "YOUR_TOKEN",
+    "news_location": "./news.txt",
+    "online_location": "./online.txt",
+    "exe_location": "Server.exe",
+    "players_location": "./players",
+    "worlds_location": "./worlds",
+    "guilds_location": "./guilds"
+}
